@@ -21,4 +21,4 @@ Project: Student Grade Tracker
 - Calcualting the GPA , average grade and the letter grade of the student based on the grades of subjects.
 
 ## Technologies Used:
-Java:The primary programming language used for the arithmatic operations and for GUI designing using Java Swing.
+Java:The primary programming language used for the calulating the grades and for GUI designing using Java Swing.
